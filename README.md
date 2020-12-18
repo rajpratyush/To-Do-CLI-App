@@ -9,6 +9,20 @@ The specification for this problem is written down as tests. Since we haven’t 
 Here's how it should work when you're done:
 
 [![Todo-CLI](https://res.cloudinary.com/sv-co/image/upload/v1607935139/fullstack-CEF/Todo-CLI/play-video-demo_fp50wp.png)](https://vimeo.com/490621534)
+***
+
+<h2 align="center" style="margin-top: -4px !important;">Todo List Client</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen">
+  <img src="https://img.shields.io/badge/python-3.8-informational">
+  <img src="https://img.shields.io/badge/maintainer-rajpratyush-informational">
+  <img src="https://img.shields.io/badge/os-windows-brightgreen">
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen">
+</p>
+
+
+This Script/Program is written as a part of CoronaSafe Engineering Fellowship Test Problem by Pupilfirst in the Python Programming Language passing all the test cases as given in the .js file. Proof of all Test Cases passing is as shown below.
+***
 ## Getting started
 
 1. Install Python: Python is usually installed by default on most modern systems. To check what your currently have, open a terminal and run the following command
