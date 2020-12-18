@@ -11,7 +11,7 @@ Here's how it should work when you're done:
 [![Todo-CLI](https://res.cloudinary.com/sv-co/image/upload/v1607935139/fullstack-CEF/Todo-CLI/play-video-demo_fp50wp.png)](https://vimeo.com/490621534)
 ***
 
-<h2 align="center" style="margin-top: -4px !important;">Todo List Client</h2>
+<h2 align="center" style="margin-top: -4px !important;">Todo List CLI App</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen">
   <img src="https://img.shields.io/badge/python-3.8-informational">
